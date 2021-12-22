@@ -2,6 +2,7 @@
 
 I am a **Quality Assurance Engineer** in **Government Technology Agency** Singapore.
 
+Practising as a QA, Automation Engineer and Incident support.
 ----
 
 🧰 Toolbox
