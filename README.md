@@ -2,6 +2,11 @@
 
 I am a **Quality Assurance Engineer** in **Government Technology Agency** Singapore.
 
+----
+
+🧰 Toolbox
+
+<img src= "https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt= "apple logo" width="50" height="50"> <img src= "https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt= "GCC" width="50" height="50">
 
 
 
