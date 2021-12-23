@@ -21,13 +21,23 @@ styling_options:
   logo_url: https://sdx.sensors.gov.sg/sdx/home
 
 hide_toolbar:
-  sidebar: true
-  pdf: true
+  sidebar: false
+  pdf: false
   github: true
-
+  
+preferences:
+  - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+      - label: English
+        value: en
+      - label: Español
+        value: es
+       
 folders:
   - name: 'User Guide'
-  - type: dropdown
     title: 'User Guide'
     subtitle: ''
     order:
