@@ -21,8 +21,8 @@ styling_options:
   logo_url: https://sdx.sensors.gov.sg/sdx/home
 
 hide_toolbar:
-  sidebar: false
-  pdf: false
+  sidebar: true
+  pdf: true
   github: true
 
 folders:
