@@ -27,16 +27,7 @@ hide_toolbar:
   
 preferences:
   - type: dropdown
-  name: language
-    label: Language
-    description: Choose your preferred language.
-    options:
-      - label: English
-        value: en
-      - label: Español
-        value: es
-  folders:
-   - name: 'User Guide'
+  name: 'User Guide'
     title: 'User Guide'
     subtitle: ''
     order:
@@ -47,33 +38,33 @@ preferences:
       - Browse Topic.md
     
        
-folders:
-  - name: 'User Guide'
-    title: 'User Guide'
-    subtitle: ''
-    order:
-      - Getting Started.md
-      - Introduction.md
-      - Home Page.md
-      - Dashboard.md
-      - Browse Topic.md
-      - Projects.md
-      - My Subscribers.md
-      - My Subscriptions.md
-      - Activities.md
-      - Glossary.md
-  - name: 'FAQs'
-    title: 'FAQs'
-    subtitle: ''
-    order:
-      - General.md
-      - Account.md
-      - Publishing.md
-      - Subscription.md
-      - Topic.md
-      - Messaging.md
-      - Portal.md
-  - name: 'Terms of Use'
-    title: 'Terms of Use'
-  - name: 'Privacy Statement'
-    title: 'Privacy Statement'
+# folders:
+#   - name: 'User Guide'
+#     title: 'User Guide'
+#     subtitle: ''
+#     order:
+#       - Getting Started.md
+#       - Introduction.md
+#       - Home Page.md
+#       - Dashboard.md
+#       - Browse Topic.md
+#       - Projects.md
+#       - My Subscribers.md
+#       - My Subscriptions.md
+#       - Activities.md
+#       - Glossary.md
+#   - name: 'FAQs'
+#     title: 'FAQs'
+#     subtitle: ''
+#     order:
+#       - General.md
+#       - Account.md
+#       - Publishing.md
+#       - Subscription.md
+#       - Topic.md
+#       - Messaging.md
+#       - Portal.md
+#   - name: 'Terms of Use'
+#     title: 'Terms of Use'
+#   - name: 'Privacy Statement'
+#     title: 'Privacy Statement'
