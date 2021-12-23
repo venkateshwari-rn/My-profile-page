@@ -27,6 +27,7 @@ hide_toolbar:
 
 folders:
   - name: 'User Guide'
+  - type: dropdown
     title: 'User Guide'
     subtitle: ''
     order:
